@@ -6,6 +6,7 @@ I am a data scientist passionate about extracting insights from data and buildin
 ### [Fraud Detection (Classification)](Fraud%20Detection/README.md)
 
 ## Contact
+- Marie Sjørslev Pedersen (Kongens Lyngby, Denmark)
 - Email: [marie.sp.1996@gmail.com](mailto:marie.sp.1996@gmail.com)
 - LinkedIn: [Marie Sjørslev Pedersen](https://www.linkedin.com/in/marie-pedersen/)
 - GitHub: [MarieSPedersen](https://github.com/mariespedersen)
